@@ -7,4 +7,4 @@
 
 - [Du savoir à l'action la cognition face à la crise écologique](https://youtu.be/q7NC_xJBegc) - Table ronde SCALP
 
-- [Comment raisonner quelqu'un | A Street Epistemology-Inspired Comic)(https://youtu.be/wc89rO3pZPU) - Anthony Magnabosco (2018)
+- [Comment raisonner quelqu'un | A Street Epistemology-Inspired Comic](https://youtu.be/wc89rO3pZPU) - Anthony Magnabosco (2018)
