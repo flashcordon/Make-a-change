@@ -1,0 +1,4 @@
+- Esprit critique
+- Pensée complexe (cf Edgar Morin) / system thinking
+- Elargissement du cercle d'empathie
+- pensée à long terme 
