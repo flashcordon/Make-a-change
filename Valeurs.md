@@ -1,4 +1,4 @@
 - Esprit critique
-- Pensée complexe (cf Edgar Morin) / system thinking
+- Pensée complexe (cf Edgar Morin) / system thinking /Interdépendance
 - Elargissement du cercle d'empathie
 - pensée à long terme  (sous branche de system thinking?)
