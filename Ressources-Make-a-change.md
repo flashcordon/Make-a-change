@@ -11,3 +11,6 @@
 
 - [Consumers underestimate the emissions associated with food but are aided by labels](https://www.nature.com/articles/s41558-018-0354-z) - Camilleri et al 2019
 > Informer les gens sur leur consommation de GES peut les pousser à mieux consommer
+
+- [Naomi Oreskes on Climate Change and the Distortion of Scientific Facts](https://youtu.be/DhDujggi8DY) - Mindscape Podcast (Février 2019)
+> Les raisons politiques derrière le mouvement climatosceptique aux US. Le contexte de la guerre froide et l'idéologie anticommuniste explique mieux la naissance du mouvement que les intérêts financiers ! Les gens qui sont derrière les controverses autour du climat sont aussi dans celles sur la dangerosité des cigarettes entre autres.
