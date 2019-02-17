@@ -25,3 +25,5 @@
 
 - [How to Talk About Hard Sh**...........(aka Climate Change)](https://youtu.be/29ciz1TEXjI) - PBS Hot Mess (Janvier 2019)
 > "You've got to make people care about it before they're going to do anything about it" - David Attenbourgh
+
+- [Facts Don’t Change People’s Minds. Here’s What Does](https://heleo.com/facts-dont-change-peoples-minds-heres/16242/) (Septembre 2017)
