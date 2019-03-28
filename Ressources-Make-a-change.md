@@ -29,3 +29,7 @@
 - [Facts Don’t Change People’s Minds. Here’s What Does](https://heleo.com/facts-dont-change-peoples-minds-heres/16242/) (Septembre 2017)
 
 - [Why We Love Conspiracy Theories (And Why They Are So Popular Today)](https://youtu.be/C0ojY3c8KWY?list=WL) - The Good Stuff (Mars 2019)
+
+- [How Does Fiction Reading Influence Empathy? AnExperimental Investigation on the Role of Emotional Transportation](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0055341&type=printable) - Matthijs Bal1 et Veltkamp (2013)
+
+- [Exploring the link between reading fiction and empathy: Ruling out individual differences and examining outcomes](https://www.degruyter.com/view/j/comm.2009.34.issue-4/comm.2009.025/comm.2009.025.xml) - Mar et al (2009)
