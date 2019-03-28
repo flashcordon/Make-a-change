@@ -27,3 +27,5 @@
 > "You've got to make people care about it before they're going to do anything about it" - David Attenbourgh
 
 - [Facts Don’t Change People’s Minds. Here’s What Does](https://heleo.com/facts-dont-change-peoples-minds-heres/16242/) (Septembre 2017)
+
+- [Why We Love Conspiracy Theories (And Why They Are So Popular Today)](https://youtu.be/C0ojY3c8KWY?list=WL) - The Good Stuff (Mars 2019)
