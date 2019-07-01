@@ -40,3 +40,5 @@
 
 - [Prof Cass Sunstein on how social change happens, and why it’s so often abrupt & unpredictable](https://80000hours.org/podcast/episodes/cass-sunstein-how-change-happens/) - 80000 hours Podcast (Juin 2019)
 > Livre à lire : How change happens, de Cass Sunstein
+
+- [Effective strategies for rebutting science denialism in public discussions](https://www.nature.com/articles/s41562-019-0632-4.epdf?shared_access_token=kphUkqDBZ5swvb9rOXFOttRgN0jAjWel9jnR3ZoTv0PJB-Q8XAAI1Wn7G5Y_ye-xNnRmy44g_jqUlKLaN4VImkcN3bI937_AAgsrMyp09iefF9BTp_VHjxctEuhAKS_Qx2-H5XlfwwLmUECdgBFevA%3D%3D) - Schmid & Betsch (2019)
