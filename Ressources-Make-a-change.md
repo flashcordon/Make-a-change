@@ -37,3 +37,6 @@
 - [Écologie scientifique avec Rodolphe Meyer (Le Réveilleur) | Probablement?](https://youtu.be/TDXtBrVrqYY) - Science 4 all (Avril 2019)
 
 - [Une étude pour mieux comprendre l'apport des sciences comportementales à la transition écologique](https://www.modernisation.gouv.fr/outils-et-methodes-pour-transformer/une-etude-pour-mieux-comprendre-lapport-des-sciences-comportementales-a-la-transition-ecologique?fbclid=IwAR2ZnlDDMnKtsczBp0QmxFJIQR2P24KV7GgUz7oeQUMXXSa2e_8LvhOUxCM)
+
+- [Prof Cass Sunstein on how social change happens, and why it’s so often abrupt & unpredictable](https://80000hours.org/podcast/episodes/cass-sunstein-how-change-happens/) - 80000 hours Podcast (Juin 2019)
+> Livre à lire : How change happens, de Cass Sunstein
