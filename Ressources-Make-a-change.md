@@ -42,3 +42,5 @@
 > Livre à lire : How change happens, de Cass Sunstein
 
 - [Effective strategies for rebutting science denialism in public discussions](https://www.nature.com/articles/s41562-019-0632-4.epdf?shared_access_token=kphUkqDBZ5swvb9rOXFOttRgN0jAjWel9jnR3ZoTv0PJB-Q8XAAI1Wn7G5Y_ye-xNnRmy44g_jqUlKLaN4VImkcN3bI937_AAgsrMyp09iefF9BTp_VHjxctEuhAKS_Qx2-H5XlfwwLmUECdgBFevA%3D%3D) - Schmid & Betsch (2019)
+
+- [Phil Plait - Ne soyez pas un enfoiré (Don't be a dick)](https://youtu.be/5opz8kvVovs) - Phil Plait
