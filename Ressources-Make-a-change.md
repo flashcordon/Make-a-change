@@ -50,5 +50,12 @@
 
 - [I’m an environmental journalist, but I never write about overpopulation. Here’s why.](https://www.vox.com/energy-and-environment/2017/9/26/16356524/the-population-question?fbclid=IwAR0qmc7cLBYBOp2XjlnnFMKnUW0shu2cGd_yqAfWi00wtQQvHmai9Z7fEuM) - David Roberts (2018)
 
+- [Communicating science to policymakers: six strategies for success](https://www.nature.com/articles/d41586-019-02372-3?utm_content=buffer26867&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer&fbclid=IwAR11RFx24XMLJfXGeP-8KXKzwoikm8qx1pZdoOuiEvlyW25busICoRNUt_E) - Hannah Safford et Austin Brown (2019)
+> * Know who you want to reach.
+> * Have clear and actionable recommendations
+> * Repackage your work
+> * Write well
+> * Pick your moment
+> * Sustain and amplify your engagement
 
 
