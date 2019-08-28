@@ -48,3 +48,7 @@
 - [The World Remade](http://reasonablysound.com/2019/08/19/the-world-remade/) - Reasonably sound (Août 2019)
 > Lire ["Hyperobjects"](https://www.upress.umn.edu/book-division/books/hyperobjects) de Thimothy Morton
 
+- [I’m an environmental journalist, but I never write about overpopulation. Here’s why.](https://www.vox.com/energy-and-environment/2017/9/26/16356524/the-population-question?fbclid=IwAR0qmc7cLBYBOp2XjlnnFMKnUW0shu2cGd_yqAfWi00wtQQvHmai9Z7fEuM) - David Roberts (2018)
+
+
+
