@@ -58,4 +58,8 @@
 > * Pick your moment
 > * Sustain and amplify your engagement
 
+- [On whose green Earth?](https://www.knowablemagazine.org/article/society/2019/religion-science-climate-change?utm_source=twitter&utm_medium=post&utm_campaign=originals-august) - Willis Jenkins, Knowable Magazine (Septembre 2019)
+> "Research shows that white evangelicals in the United States are more likely to be climate sceptics than people of other religious affiliations. They may cite dominion to explain their position. In their interpretation, global climate governance would impede free exploitation of natural resources and, by slowing economic growth, worsen prospects for human welfare. That view does not seem to be based in credible social science, but the point is that they appeal to dominion to symbolize the importance of human dignity. In contrast, non-white evangelicals in the US, and evangelicals in other countries, have a much lower correlation between their religious affiliation and climate scepticism. The difference suggests that what we are seeing is not simply a structure of religious belief shaping a particular climate policy. Rather, religious beliefs and political context feed back on one another."
+
+- [Religion ad climate change](https://www.annualreviews.org/doi/full/10.1146/annurev-environ-102017-025855) Jenkins et al (2019)
 
