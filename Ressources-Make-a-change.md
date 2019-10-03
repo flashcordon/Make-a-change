@@ -63,3 +63,5 @@
 
 - [Religion ad climate change](https://www.annualreviews.org/doi/full/10.1146/annurev-environ-102017-025855) Jenkins et al (2019)
 
+- [Modifying attitudes about modified foods: Increased knowledge leads to more positive attitudes](https://www.sciencedirect.com/science/article/abs/pii/S0272494419301045?via%3Dihub) - McPhetres et al (2019)
+
