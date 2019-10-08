@@ -65,3 +65,5 @@
 
 - [Modifying attitudes about modified foods: Increased knowledge leads to more positive attitudes](https://www.sciencedirect.com/science/article/abs/pii/S0272494419301045?via%3Dihub) - McPhetres et al (2019)
 
+- [Debunking science denialism](https://www.nature.com/articles/s41562-019-0746-8) - Nature Human Behaviour
+
