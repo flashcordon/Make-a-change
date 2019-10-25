@@ -67,3 +67,5 @@
 
 - [Debunking science denialism](https://www.nature.com/articles/s41562-019-0746-8) - Nature Human Behaviour
 
+- [Battling Infectious Diseases in the 20th Century: The Impact of Vaccines](http://graphics.wsj.com/infectious-diseases-and-vaccines/)
+> L'impact des vaccins dans un superbe graphe !
