@@ -69,3 +69,4 @@
 
 - [Battling Infectious Diseases in the 20th Century: The Impact of Vaccines](http://graphics.wsj.com/infectious-diseases-and-vaccines/)
 > L'impact des vaccins dans un superbe graphe !
+- [Deconstructing climate misinformation to identify reasoning errors](https://iopscience.iop.org/article/10.1088/1748-9326/aaa49f) - Cook et al (2018)
