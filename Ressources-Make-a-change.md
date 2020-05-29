@@ -70,3 +70,5 @@
 - [Battling Infectious Diseases in the 20th Century: The Impact of Vaccines](http://graphics.wsj.com/infectious-diseases-and-vaccines/)
 > L'impact des vaccins dans un superbe graphe !
 - [Deconstructing climate misinformation to identify reasoning errors](https://iopscience.iop.org/article/10.1088/1748-9326/aaa49f) - Cook et al (2018)
+- [A snapshot of Climate Change Education Initiatives in Europe: Initial findings and implications for future Climate Change Education](https://allea.org/portfolio-item/a-snapshot-of-climate-change-education-initiatives-in-europe-initial-findings-and-implications-for-future-climate-change-education/?fbclid=IwAR393BldrMvKrM_URiAxgofGfB9d_oAAYIAVwoRI1v5FxOTw9gle3e9FIjw)
+> Rapport de Allea : All European Academies
